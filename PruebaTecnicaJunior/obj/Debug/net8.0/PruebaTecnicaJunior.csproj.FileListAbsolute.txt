@@ -1,0 +1,14 @@
+C:\Users\TP\OneDrive\Escritorio\ApiResful\PruebaTecnicaJunior\PruebaTecnicaJunior\obj\Debug\net8.0\PruebaTecnicaJunior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TP\OneDrive\Escritorio\ApiResful\PruebaTecnicaJunior\PruebaTecnicaJunior\obj\Debug\net8.0\PruebaTecnicaJunior.AssemblyInfoInputs.cache
+C:\Users\TP\OneDrive\Escritorio\ApiResful\PruebaTecnicaJunior\PruebaTecnicaJunior\obj\Debug\net8.0\PruebaTecnicaJunior.AssemblyInfo.cs
+C:\Users\TP\OneDrive\Escritorio\ApiResful\PruebaTecnicaJunior\PruebaTecnicaJunior\obj\Debug\net8.0\PruebaTecnicaJunior.csproj.CoreCompileInputs.cache
+C:\Users\TP\OneDrive\Escritorio\ApiResful\PruebaTecnicaJunior\PruebaTecnicaJunior\bin\Debug\net8.0\PruebaTecnicaJunior.exe
+C:\Users\TP\OneDrive\Escritorio\ApiResful\PruebaTecnicaJunior\PruebaTecnicaJunior\bin\Debug\net8.0\PruebaTecnicaJunior.deps.json
+C:\Users\TP\OneDrive\Escritorio\ApiResful\PruebaTecnicaJunior\PruebaTecnicaJunior\bin\Debug\net8.0\PruebaTecnicaJunior.runtimeconfig.json
+C:\Users\TP\OneDrive\Escritorio\ApiResful\PruebaTecnicaJunior\PruebaTecnicaJunior\bin\Debug\net8.0\PruebaTecnicaJunior.dll
+C:\Users\TP\OneDrive\Escritorio\ApiResful\PruebaTecnicaJunior\PruebaTecnicaJunior\bin\Debug\net8.0\PruebaTecnicaJunior.pdb
+C:\Users\TP\OneDrive\Escritorio\ApiResful\PruebaTecnicaJunior\PruebaTecnicaJunior\obj\Debug\net8.0\PruebaTecnicaJunior.dll
+C:\Users\TP\OneDrive\Escritorio\ApiResful\PruebaTecnicaJunior\PruebaTecnicaJunior\obj\Debug\net8.0\refint\PruebaTecnicaJunior.dll
+C:\Users\TP\OneDrive\Escritorio\ApiResful\PruebaTecnicaJunior\PruebaTecnicaJunior\obj\Debug\net8.0\PruebaTecnicaJunior.pdb
+C:\Users\TP\OneDrive\Escritorio\ApiResful\PruebaTecnicaJunior\PruebaTecnicaJunior\obj\Debug\net8.0\PruebaTecnicaJunior.genruntimeconfig.cache
+C:\Users\TP\OneDrive\Escritorio\ApiResful\PruebaTecnicaJunior\PruebaTecnicaJunior\obj\Debug\net8.0\ref\PruebaTecnicaJunior.dll

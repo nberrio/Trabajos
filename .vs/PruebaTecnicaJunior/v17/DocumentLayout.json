@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TP\\OneDrive\\Escritorio\\ApiResful\\PruebaTecnicaJunior\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB3025-1BCB-4FF0-866C-527BE6119218}|PruebaTecnicaJunior\\PruebaTecnicaJunior.csproj|c:\\users\\tp\\onedrive\\escritorio\\apiresful\\pruebatecnicajunior\\pruebatecnicajunior\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FB3025-1BCB-4FF0-866C-527BE6119218}|PruebaTecnicaJunior\\PruebaTecnicaJunior.csproj|solutionrelative:pruebatecnicajunior\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TP\\OneDrive\\Escritorio\\ApiResful\\PruebaTecnicaJunior\\PruebaTecnicaJunior\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaJunior\\Program.cs",
+              "ToolTip": "C:\\Users\\TP\\OneDrive\\Escritorio\\ApiResful\\PruebaTecnicaJunior\\PruebaTecnicaJunior\\Program.cs",
+              "RelativeToolTip": "PruebaTecnicaJunior\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:08:42.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
